@@ -1,1 +1,1 @@
-
+normal_text = "hello"
