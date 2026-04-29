@@ -1,0 +1,14 @@
+[
+    {
+        "line": 1,
+        "type": "API_KEY",
+        "risk": "HIGH",
+        "content": "API_KEY = \"sk-123abcSECRET\""
+    },
+    {
+        "line": 2,
+        "type": "PASSWORD",
+        "risk": "MEDIUM",
+        "content": "PASSWORD = \"admin123\""
+    }
+]
