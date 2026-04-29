@@ -6,5 +6,13 @@
         "risk": "HIGH",
         "content": "API_KEY = \"sk-xyz999\"",
         "suggestion": "Store API keys in environment variables or use a secret manager"
+    },
+    {
+        "file": ".\\test.py",
+        "line": 1,
+        "type": "API_KEY",
+        "risk": "HIGH",
+        "content": "API_KEY = \"sk-xyz999\"",
+        "suggestion": "Store API keys in environment variables or use a secret manager"
     }
 ]
